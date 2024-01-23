@@ -31,6 +31,5 @@ I'm curious about all things tech, data, math and social impact related. Reach m
 
 [`ExpSmoothing`](https://pypi.org/project/ExpSmoothing/) A simple training and testing model for exponential smoothing forecasts
 
-</td><td valign="top" width="33%">
 
 </td></tr></table>
