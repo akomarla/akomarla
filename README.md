@@ -5,11 +5,11 @@ I'm curious about all things tech, data, math and social impact related. Reach m
 ## Semiconductors
 #### Operations, Supply Chain & Markets
 
-[`predict_npi_bugs`](https://github.com/akomarla/predict_npi_bugs) Use non-linear curve fitting and optimization to forecast JIRA sightings
+[`predict_npi_bugs`](https://github.com/akomarla/predict_npi_bugs) Use non-linear curve fitting and optimization to forecast JIRA sightings in SSD product development
 
 [`forecast_demand`](https://github.com/akomarla/forecast_demand) Use time-series forecasting and vector similarity measures to forecast SKU-level SSD demand
 
-[`forecast_npi_costs`](https://github.com/akomarla/forecast_npi_costs) A tool to forecast future costs of SSDs based on historical quotes received from ODMs
+[`forecast_npi_costs`](https://github.com/akomarla/forecast_npi_costs) A tool to forecast manufacturing costs of SSDs based on historical quotes received from ODMs
 
 [`inventory_optimization`](https://github.com/akomarla/analyse_demand_forecast) A new and improved approach to safety-stock optimization in SSD supplychain that pushes back on the assumption that demand is normally distributed
 
@@ -33,3 +33,6 @@ I'm curious about all things tech, data, math and social impact related. Reach m
 
 
 </td></tr></table>
+
+Acronyms:<br>
+ODM: Offshore Device/Design Manufacturer; SSD: Solid State Drive
