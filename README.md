@@ -18,11 +18,11 @@ I'm curious about all things tech, data, math and social impact related. Reach m
 ## Law & Policy
 #### Open data, Government, Judicial System 
 
-[`ca_jails_covid_data`](https://github.com/covidincustody/ca-county-jails-data) Led the development of the only COVID-19 dataset for jails using FOIA requests (www.covidincustody.org)
+[`ca_jails_covid_data`](https://github.com/covidincustody/ca-county-jails-data) Led the development of the only COVID-19 dataset for California's jails using FOIA requests (www.covidincustody.org)
 
-[`data_transparency_cpra`](https://github.com/covidincustody/data-transparency-cpra) Design and deploy metrics to measure transparency of govt. agencies in response to FOIA requests (www.covidincustody.org)
+[`data_transparency_cpra`](https://github.com/covidincustody/data-transparency-cpra) Metrics to measure and visualize the transparency of govt. agencies in response to FOIA requests (www.covidincustody.org)
 
-[`resentencing_data_initiative`](https://github.com/redoio/three_strikes_project) A model to determine resentencing eligibility of non-violent offenders in CA prisons (used by the Three Strikes Project -  Stanford School of Law)
+[`resentencing_data_initiative`](https://github.com/redoio/three_strikes_project) A model to determine resentencing eligibility of non-violent offenders in California's prisons (used by the Three Strikes Project -  Stanford School of Law)
 
 </td><td valign="top" width="33%">
 
