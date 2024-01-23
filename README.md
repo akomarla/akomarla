@@ -11,7 +11,7 @@ I'm curious about all things tech, data, math and social impact related. Reach m
 
 [`forecast_npi_costs`](https://github.com/akomarla/forecast_npi_costs) A tool to forecast future costs of SSDs based on historical quotes received from ODMs
 
-[`inventory_optimization`](https://github.com/akomarla/analyse_demand_forecast) A new approach and improved approach to safety-stock optimization in SSD supplychain
+[`inventory_optimization`](https://github.com/akomarla/analyse_demand_forecast) A new and improved approach to safety-stock optimization in SSD supplychain that pushes back on the assumption that demand is normally distributed
 
 </td><td valign="top" width="33%">
 
