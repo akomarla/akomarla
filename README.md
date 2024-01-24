@@ -35,4 +35,6 @@ I'm curious about all things tech, data, math and social impact related. Reach m
 </td></tr></table>
 
 Acronyms:<br>
-ODM: Offshore Device/Design Manufacturer; SSD: Solid State Drive
+ODM: Offshore Device/Design Manufacturer<br> 
+SSD: Solid State Drive<br> 
+FOIA: Freedom of Information Act (Public Records Act in California)
