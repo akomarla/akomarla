@@ -7,7 +7,7 @@ I'm curious about all things tech, data, math and social impact related. Reach m
 
 [`predict_npi_bugs`](https://github.com/akomarla/predict_npi_bugs) Use non-linear curve fitting and optimization to forecast JIRA sightings in SSD product development
 
-[`forecast_demand`](https://github.com/akomarla/forecast_demand) Use time-series forecasting and vector similarity measures to forecast SKU-level SSD demand
+[`forecast_demand`](https://github.com/akomarla/forecast_demand) Use time-series forecasting and vector similarity measures to forecast SKU-level SSD customer demand
 
 [`forecast_npi_costs`](https://github.com/akomarla/forecast_npi_costs) A tool to forecast manufacturing costs of SSDs based on historical quotes received from ODMs
 
@@ -22,7 +22,7 @@ I'm curious about all things tech, data, math and social impact related. Reach m
 
 [`data_transparency_cpra`](https://github.com/covidincustody/data-transparency-cpra) Metrics to measure and visualize the transparency of govt. agencies in response to FOIA requests (www.covidincustody.org)
 
-[`resentencing_data_initiative`](https://github.com/redoio/three_strikes_project) A model to determine resentencing eligibility of non-violent offenders in California's prisons (used by the Three Strikes Project -  Stanford School of Law)
+[`resentencing_data_initiative`](https://github.com/redoio/three_strikes_project) A model to determine resentencing eligibility of nonviolent offenders in California's prisons (used by the Three Strikes Project -  Stanford School of Law)
 
 </td><td valign="top" width="33%">
 
