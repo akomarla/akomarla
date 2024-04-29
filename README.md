@@ -3,26 +3,26 @@ I'm curious about all things tech, data, math and social impact related. Reach m
 <table><tr><td valign="top" width="33%">
 
 ## Semiconductors
-#### Operations, Supply Chain & Markets
+#### Operations research, Supply chain
 
 [`predict_npi_bugs`](https://github.com/akomarla/predict_npi_bugs) Use non-linear curve fitting and optimization to forecast JIRA sightings in SSD product development
 
 [`forecast_demand`](https://github.com/akomarla/forecast_demand) Use time-series forecasting and vector similarity measures to forecast SKU-level SSD customer demand
 
-[`forecast_npi_costs`](https://github.com/akomarla/forecast_npi_costs) A tool to forecast manufacturing costs of SSDs based on historical quotes received from ODMs
+[`forecast_npi_costs`](https://github.com/akomarla/forecast_npi_costs) Use historical price quotes received from ODMs to forecast manufacturing costs of SSDs
 
-[`inventory_optimization`](https://github.com/akomarla/analyse_demand_forecast) A new and improved approach to safety-stock optimization in SSD supplychain that pushes back on the assumption that demand is normally distributed
+[`inventory_optimization`](https://github.com/akomarla/analyse_demand_forecast) A new and improved safety-stock optimization technique for SSD supplychain that challenges the assumption that demand is distributed normally
 
 </td><td valign="top" width="33%">
 
 ## Law & Policy
-#### Open data, Government, Judicial System 
+#### Open data, Government, Judicial system 
 
-[`ca_jails_covid_data`](https://github.com/covidincustody/ca-county-jails-data) Led the development of the only COVID-19 dataset for California's jails using FOIA requests (www.covidincustody.org)
+[`ca_jails_covid_data`](https://github.com/covidincustody/ca-county-jails-data) Led data science and development efforts to create the only COVID-19 dataset for California's jails via FOIA requests (www.covidincustody.org)
 
-[`data_transparency_cpra`](https://github.com/covidincustody/data-transparency-cpra) Metrics to measure and visualize the transparency of govt. agencies in response to FOIA requests (www.covidincustody.org)
+[`data_transparency_cpra`](https://github.com/covidincustody/data-transparency-cpra) Metrics to measure and visualize the transparency of govt. agencies in response to FOIA requests for COVID-19 data (www.covidincustody.org)
 
-[`resentencing_data_initiative`](https://github.com/redoio/three_strikes_project) A model to determine resentencing eligibility of nonviolent offenders in California's prisons (used by the Three Strikes Project -  Stanford School of Law)
+[`resentencing_data_initiative`](https://github.com/redoio/three_strikes_project) A model to determine resentencing eligibility of nonviolent offenders in California's prisons (with the Three Strikes Project -  Stanford School of Law)
 
 </td><td valign="top" width="33%">
 
@@ -37,4 +37,4 @@ I'm curious about all things tech, data, math and social impact related. Reach m
 Acronyms:<br>
 ODM: Offshore Device/Design Manufacturer<br> 
 SSD: Solid State Drive<br> 
-FOIA: Freedom of Information Act (Public Records Act in California)
+FOIA: Freedom of Information Act (or Public Records Act in California)
