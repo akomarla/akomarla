@@ -11,7 +11,7 @@ I'm curious about all things tech, data, math and social impact related. Reach m
 
 [`forecast_npi_costs`](https://github.com/akomarla/forecast_npi_costs) Use historical price quotes received from ODMs to forecast manufacturing costs of SSDs
 
-[`inventory_optimization`](https://github.com/akomarla/analyse_demand_forecast) A new and improved safety-stock optimization technique for SSD supplychain that challenges the assumption that demand is distributed normally
+[`inventory_optimization`](https://github.com/akomarla/analyse_demand_forecast) Safety-stock optimization technique for SSD supplychain that challenges the traditional assumption that demand is distributed normally
 
 </td><td valign="top" width="33%">
 
@@ -22,19 +22,19 @@ I'm curious about all things tech, data, math and social impact related. Reach m
 
 [`data_transparency_cpra`](https://github.com/covidincustody/data-transparency-cpra) Metrics to measure and visualize the transparency of govt. agencies in response to FOIA requests for COVID-19 data (www.covidincustody.org)
 
-[`resentencing_data_initiative`](https://github.com/redoio/three_strikes_project) A model to determine resentencing eligibility of nonviolent offenders in California's prisons (with the Three Strikes Project -  Stanford School of Law)
+[`resentencing_data_initiative`](https://github.com/redoio/three_strikes_project) Determine resentencing eligibility of nonviolent offenders in California's prisons (with the Three Strikes Project, Stanford School of Law)
 
 </td><td valign="top" width="33%">
 
 ## Other
 #### Open source contributions
 
-[`ExpSmoothing`](https://pypi.org/project/ExpSmoothing/) A simple training and testing model for exponential smoothing forecasts
+[`ExpSmoothing`](https://pypi.org/project/ExpSmoothing/) Training and testing a model for exponential smoothing time-series forecasts
 
 
 </td></tr></table>
 
 Acronyms:<br>
 ODM: Offshore Device/Design Manufacturer<br> 
-SSD: Solid State Drive<br> 
+SSD: Solid-State Drive<br> 
 FOIA: Freedom of Information Act (or Public Records Act in California)
