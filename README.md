@@ -3,7 +3,7 @@ I'm curious about all things tech, data, math and social impact related. Reach m
 <table><tr><td valign="top" width="33%">
 
 ## Semiconductors
-#### Operations research, Supply chain
+#### Operations research, supply chain
 
 [`predict_npi_bugs`](https://github.com/akomarla/predict_npi_bugs) Use non-linear curve fitting and optimization to forecast JIRA sightings in SSD product development
 
@@ -16,7 +16,7 @@ I'm curious about all things tech, data, math and social impact related. Reach m
 </td><td valign="top" width="33%">
 
 ## Law & Policy
-#### Open data, Government, Judicial system 
+#### Open data, government, judicial system 
 
 [`ca_jails_covid_data`](https://github.com/covidincustody/ca-county-jails-data) Led data science and development efforts to create the only COVID-19 dataset for California's jails via FOIA requests (www.covidincustody.org)
 
