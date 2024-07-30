@@ -7,8 +7,6 @@ I'm curious about all things tech, data, math and social impact related. Reach m
 
 [`forecast_demand`](https://github.com/akomarla/forecast_demand) Use time-series forecasting and vector similarity measures to forecast SKU-level SSD customer demand
 
-[`predict_npi_bugs`](https://github.com/akomarla/predict_npi_bugs) Use non-linear curve fitting and optimization to forecast JIRA sightings in SSD product development
-
 [`inventory_optimization`](https://github.com/akomarla/analyse_demand_forecast) Safety-stock optimization technique for SSD supplychain that challenges the traditional assumption that demand is distributed normally
 
 </td><td valign="top" width="33%">
