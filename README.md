@@ -7,7 +7,7 @@ I'm curious about all things tech, data, math and social impact related. Reach m
 
 [`forecast_demand`](https://github.com/akomarla/forecast_demand) Use time-series forecasting and vector similarity measures to forecast SKU-level SSD customer demand
 
-[`inventory_optimization`](https://github.com/akomarla/analyse_demand_forecast) Safety-stock optimization technique for SSD supplychain that challenges the traditional assumption that demand is distributed normally
+[`inventory_optimization`](https://github.com/akomarla/analyse_demand_forecast) Safety-stock optimization technique for SSD supply chain that challenges a common assumption that customer demand is normally distributed over time
 
 </td><td valign="top" width="33%">
 
