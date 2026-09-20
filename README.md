@@ -1,5 +1,1 @@
-Aparna Komarla is a Responsible AI Fellow at the Duke University School of Law and the founder of Redo.io (https://redoio.info), where she leads the development of transparent, interpretable AI systems for justice reform. Incubated at LexLab at UC Law SF in 2024, Redo.io is funded by the Urban Institute and Microsoft through the Catalyst Grant Program and has partnered with the Three Strikes Project at Stanford Law, the Office of the State Public Defender, and county public defender offices on various resentencing initiatives.
-
-Prior to Redo.io, Aparna founded the COVID in Custody Project and built the only comprehensive dataset on COVID in California's jails. Her research was published by the UCLA Law Behind Bars Data Project and the Nevada Law Journal, and her op-eds were featured in the San Francisco Chronicle and CalMatters, among others. Aparna has also held Data Scientist roles at Intel and the UC Berkeley Computational Culture Lab.
-
-Aparna holds a B.S. in Applied Mathematics from the University of California, Davis, and is pursuing an M.S. in Symbolic Systems at Stanford University.
+More about me: https://akomarla.github.io
